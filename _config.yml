@@ -1,0 +1,24 @@
+# top level stuff you probably don't need to touch
+
+
+
+
+# edit here to achieve your personal greatness
+url: http://saif.mektekbd.com
+baseurl: http://saif.mektekbd.com/
+title: Saif Maruf
+author: Saif Maruf
+description: Personal blog and resume
+avatar: saif.jpg
+email: saif.mektek@gmail.com
+github: Saif-Uz-Zaman # username
+twitter: Saif_MekTek
+linkedin: ashadullah-shawon-b51606aa
+stackoverflow: saif-maruf-7a5b0913b   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus 
+disqus: MekTek
+google_analytics: UA-69391421-1
+
+
+# needed for travis-ci build
+exclude: [vendor]
