@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  RaspberryPi GPIO wiringPi
+title:  রাস্পবেরি-পাই বাটন ইনপুট
 categories: [tutorial]
 tags:
 - RaspberryPi
