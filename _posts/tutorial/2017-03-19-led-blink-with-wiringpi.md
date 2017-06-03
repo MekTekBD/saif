@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  RaspberryPi LED Blink wiringPi
+categories: [tutorial]
 tags:
 - RaspberryPi
 - Tags
