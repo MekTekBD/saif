@@ -1,6 +1,7 @@
 ---
 layout: post
-title:  HTML Introduction
+title:  Disk Image Install on RaspberryPi
+categories: [tutorial]
 tags:
 - RaspberryPi
 - Tags
