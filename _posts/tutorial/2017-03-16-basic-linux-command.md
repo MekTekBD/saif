@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Basic Linux Command of RaspberryPi
+title:  বেসিক রাস্পবেরি-পাই লিনাক্স কমান্ড 
 categories: [tutorial]
 tags:
 - RaspberryPi
@@ -22,7 +22,7 @@ tags:
 **LS**  
 ls কমান্ড টি লিস্টিং এর জন্য ব্যাবহার করা হয় । কোন ডিরেক্টরি তে যেয়ে যদি তুমি ls কমান্ড টি লিখ , তাহলে ঐ ডিরেক্টরি তে যা যা আছে তোমাকে সেগুলা দেখাবে । যদি তুমি এটা -l ফ্লাগ এর সাথে লিখ , অর্থাৎ যদি তুমি ls -l কমান্ড টি লিখ তাহলে এটা ডিরেক্টরি তে যা যা আছে সেগুলা সম্পর্কে অতিরিক্ত তথ্য \(permissions, owner, group, size, date and timestamp of last edit\) দিবে । আর যদি কোন ফাইল এর শুরুতে ডট \( . \) থাকে সেগুলা দেখার জন্য তোমাকে -a flag ব্যাবহার করতে হবে ।
 
-![](/assets/saif@saif-PC: ~_005.png)
+![](https://raw.githubusercontent.com/MekTekBD/saif/gh-pages/_posts/assets/saif@saif-PC:~_005.png)
 
 **CD**  
 cd কমান্ডটি ইউজ করা হয় ডিরেক্টরি চেঞ্জ এর জন্য , এর জন্য প্রথমে cd লিখে পরে PATH লিখতে হয় । \(i.e. cd directoryA\) or \(i.e. cd /home/pi/directoryA\) .
@@ -97,5 +97,5 @@ hostname কমান্ডের মাধ্যমে সিস্টেমে
 **IFCONFIG**  
 ifconfig কমান্ডের মাধ্যমে নেটওয়ার্ক কনফিগারেশন এর বিস্তারিত তথ্য ও কারেন্ট সিস্টেমটা বর্তমানে কোন ইন্টারফেস এ আছে সেটা দেখা যাবে । eth0 অংশে ইথারনেট ইন্টারফেস এডাপ্টার সম্পর্কে তথ্য , lo অংশে লুপবেক ইন্টারফেস সম্পর্কে তথ্য এবং wlan0 অংশে ওয়ারলেস lan সম্পর্কে তথ্য দেখা যাবে ।
 
-প্রাথমিক ভাবে এই বেসিক কমান্ড গুলা জানলেই হবে![](https://www.facebook.com/images/emoji.php/v8/f4c/1/16/1f642.png):\)
+প্রাথমিক ভাবে এই বেসিক কমান্ড গুলা জানলেই হবে![](https://www.facebook.com/images/emoji.php/v8/f4c/1/16/1f642.png)
 
