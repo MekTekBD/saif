@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Hello world in RaspberryPi
+categories: [tutorial]
 tags:
 - RaspberryPi
 - Tags
