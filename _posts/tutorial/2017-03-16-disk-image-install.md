@@ -9,7 +9,6 @@ tags:
 - Post
 ---
 
-##Disk Image Install on RaspberryPi
 
 
 # **ডিস্ক ইমেজ ইন্সটল**
