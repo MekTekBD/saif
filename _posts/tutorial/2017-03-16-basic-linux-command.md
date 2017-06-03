@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Basic Linux Command of RaspberryPi
+categories: [tutorial]
 tags:
 - RaspberryPi
 - Tags
