@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  RaspberryPi LED Blink wiringPi
+title:  রাস্পবেরি-পাই লেড বিলিঙ্ক
 categories: [tutorial]
 tags:
 - RaspberryPi
@@ -83,7 +83,7 @@ $sudo nano blink.c
 
 ৩। এখন নিচের ছবির মত করে ব্রেডবোর্ড এ বাল্ব ও রেজিস্টার কানেকশন দাও।
 
-![](/assets/Selection_008.png)
+![](https://raw.githubusercontent.com/MekTekBD/saif/gh-pages/_posts/assets/Selection_008.png)
 
 ৪।এখন আমাদের প্রোগ্রামটিকে কম্পাইল করতে হবে। কম্পাইল করার জন্য তুমি নিচের কমান্ডটি লিখ।  
 $gcc -o blink blink.c -l wiringPi  
