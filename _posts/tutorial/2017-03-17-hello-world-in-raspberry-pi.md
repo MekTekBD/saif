@@ -18,7 +18,7 @@ tags:
 হ্যালো ওয়ার্ল্ড -  
 যারা মোটামুটি সি প্রোগ্রামিং জানো , তারা চালিয়ে যেতে পার । নিচের ধাপ গুলা অনুসরণ করতে থাক -
 
-![](https://raw.githubusercontent.com/MekTekBD/saif/gh-pages/_posts/assets/pi@mektek: ~-test_007.png)
+![](https://github.com/MekTekBD/saif/raw/gh-pages/_posts/assets/pi%40mektek:%20~-test_007.png)
 
 ১। প্রথমে আমরা দেখব কিভাবে কমান্ড লাইন থেকে সি প্রোগ্রামিং কম্পাইল করতে হয় । প্রথমে home ডিরেক্টরিতে একটা ফোল্ডার তৈরি কর। ধরি , আমরা একটা test নামের ফোল্ডার তৈরি করতে চাই । এজন্য তোমাকে নিচের কমান্ড টি লিখতে হবে ।  
 $mkdir test
