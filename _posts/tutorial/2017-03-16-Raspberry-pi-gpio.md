@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  RaspberryPi GPIO wiringPi
+categories: [tutorial]
 tags:
 - RaspberryPi
 - Tags
