@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  Introcuction to RaspberryPi
+categories: [tutorial]
 tags:
 - RaspberryPi
 - Tags
