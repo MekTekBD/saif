@@ -28,7 +28,7 @@ tags:
 
 এখন নিচের ধাপ গুলা অনুসরণ করতে থাকো-
 
-![](/assets/Selection_010.png)  
+![](https://raw.githubusercontent.com/MekTekBD/saif/gh-pages/_posts/assets/Selection_010.png)  
 
 
 ১। প্রথমে ছবির মত করে তোমার রাস্পবেরি পাই ও ব্রেড বোর্ড কানেকশন দাও।
